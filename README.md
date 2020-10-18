@@ -5,7 +5,7 @@ A decision tree is a flowchart kind of structure in which each node is test_case
 The paths from root to leaf represent classification rules.
 
 A Decision tree is a supervised machine learning tool used in classification problems to predict the class of an instance.
-This project represents about how this decision tree is formed using gain ratio as a objective matric
+This project represents how this decision tree is formed using gain ratio as an objective matric
 
 
 # About IRIS dataset
